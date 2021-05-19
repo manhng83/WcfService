@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServices", "WcfServices\WcfServices.csproj", "{E504D2AC-8F67-499E-9E5F-B1085769AEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E504D2AC-8F67-499E-9E5F-B1085769AEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E504D2AC-8F67-499E-9E5F-B1085769AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E504D2AC-8F67-499E-9E5F-B1085769AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E504D2AC-8F67-499E-9E5F-B1085769AEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB0AC85-A1E9-4A1C-9CB0-D9D6450E2441}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WebApp.WcfServices.SmsServices" CodeBehind="SmsServices.svc.cs" %>
